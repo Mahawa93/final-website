@@ -10,7 +10,7 @@ body {
 	border-right-style: 0;
 	border-bottom-style: 0;
 	border-left-style: 0;
-	background-image: url(images/background.png);
+	background-image: url(images/background_files/background.png);
 }
 .wrapper .content {
 	background-color: #FFF;

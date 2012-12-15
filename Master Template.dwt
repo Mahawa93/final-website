@@ -1,0 +1,31 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link rel="stylesheet" type="text/css" href="styles.css"/>
+</head>
+
+<body>
+<div class="wrapper">
+  <div class="navigation">
+    <h1 align="center"> <strong>The Classic Five </strong></h1>
+    <table width="925">
+      <tr>
+        <td width="184"><div align="center"><a href="file:///C|/Documents and Settings/medialab/Desktop/Final-Project/Final Project/index.html">Home</a></div></td>
+        <td width="184"><div align="center"><a href="file:///C|/Documents and Settings/medialab/Desktop/Final-Project/Final Project/david-ruffin.html">David Ruffin</a></div></td>
+        <td width="184"><div align="center"><a href="file:///C|/Documents and Settings/medialab/Desktop/Final-Project/Final Project/eddie-kendricks.html">Eddie Kendricks </a></div></td>
+        <td width="184"><div align="center"><a href="file:///C|/Documents and Settings/medialab/Desktop/Final-Project/Final Project/melvin-franklin.html">Melvin Franklin</a></div></td>
+        <td width="184"><div align="center"><a href="file:///C|/Documents and Settings/medialab/Desktop/Final-Project/Final Project/paul-williams.html">Paul Williams </a></div></td>
+      	<td width="184"><div align="center"><a href="file:///C|/Documents and Settings/medialab/Desktop/Final-Project/Final Project/otis-williams.html">Otis Williams </a></div></td>
+        </tr>
+    </table>
+  </div> 
+  <div class="content"><!-- TemplateBeginEditable name="home" --><p> this is where I will put my content.</p><!-- TemplateEndEditable --></div>
+  </div> 
+</body>
+</html>
