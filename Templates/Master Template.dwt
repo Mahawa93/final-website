@@ -7,7 +7,7 @@
 <!-- TemplateEndEditable -->
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
-<link href="../styles.css" rel="stylesheet" type="text/css" />
+<link href="../../styles.css" rel="stylesheet" type="text/css" />
 </head>
 
 <body>
@@ -16,16 +16,18 @@
     <h1 align="center"> <strong>The Classic Five </strong></h1>
     <table width="925">
       <tr>
-        <td width="184"><div align="center"><a href="../index.html">Home</a></div></td>
-        <td width="184"><div align="center"><a href="../david-ruffin.html">David Ruffin</a></div></td>
-        <td width="184"><div align="center"><a href="../eddie-kendricks.html">Eddie Kendricks </a></div></td>
-        <td width="184"><div align="center"><a href="../melvin-franklin.html">Melvin Franklin</a></div></td>
-        <td width="184"><div align="center"><a href="../paul-williams.html">Paul Williams </a></div></td>
-      	<td width="184"><div align="center"><a href="../otis-williams.html">Otis Williams </a></div></td>
+        <td width="184"><div align="center"><a href="../../index.html">Home</a></div></td>
+        <td width="184"><div align="center"><a href="../../david-ruffin.html">David Ruffin</a></div></td>
+        <td width="184"><div align="center"><a href="../../eddie-kendricks.html">Eddie Kendricks </a></div></td>
+        <td width="184"><div align="center"><a href="../../melvin-franklin.html">Melvin Franklin</a></div></td>
+        <td width="184"><div align="center"><a href="../../paul-williams.html">Paul Williams </a></div></td>
+      	<td width="184"><div align="center"><a href="../../otis-williams.html">Otis Williams </a></div></td>
         </tr>
     </table>
   </div> 
   <div class="content"><!-- TemplateBeginEditable name="home" --><p> this is where I will put my content.</p><!-- TemplateEndEditable --></div>
-  </div> 
+   <div class="content"><!-- TemplateBeginEditable name="placeholder" --><p> this is where I will put my content.</p><!-- TemplateEndEditable --></div>
+    <div class="content"><!-- TemplateBeginEditable name="content" --><p> this is where I will put my content.</p><!-- TemplateEndEditable --></div>
+     <div class="content"><!-- TemplateBeginEditable name="second level page" --><p> this is where I will put my content.</p><!-- TemplateEndEditable --></div>
 </body>
 </html>
